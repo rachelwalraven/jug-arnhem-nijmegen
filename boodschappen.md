@@ -11,5 +11,4 @@
 # Bakker
 - brood
   
-## REWE
-- Bier: Jever
+
