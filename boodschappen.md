@@ -8,7 +8,7 @@
 - kaas
 - eieren
 
-# Bakker
+## Bakker
 - brood
   
 ## REWE
